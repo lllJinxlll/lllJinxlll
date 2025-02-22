@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, sou o Luis Felipe, prazer👋
 
 <!--
 **lllJinxlll/lllJinxlll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Jogo da cobrinha
+
+[Recriando o jogo da cobrinha com JavaScript](https://web.dio.me/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined)
