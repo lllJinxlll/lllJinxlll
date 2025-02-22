@@ -1,4 +1,6 @@
-## Olá, sou o Luis Felipe, prazer👋
+# Olá, sou o Luis Felipe, prazer👋
+
+Trabalho atualmente na área adminitrativa; 
 
 <!--
 **lllJinxlll/lllJinxlll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
