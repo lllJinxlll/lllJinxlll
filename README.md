@@ -6,7 +6,7 @@ Profissionalmente tenho uma certa facilidade em aprender coisas novas e sempre t
 Tenho um time com um grupo de amigos chamado **MK's Team** onde jogamos de tudo buscando se divertir, mas também desenvolvemos comunicação rapida.
 
 ## Tecnologias
-Atualmente desenvolvi apenas um projeto "maior" que foi o projeto interdiciplinar na faculdade em que consistia em uma aplicação web voltada para justificativa de falta e reposição de aula dos professores, visto que hoje em dia é tudo realizado de maneira escrita, então o projeto teve como objetivo realizar uma melhora nesse sistema e automatizar o processo inteiro, fiquei responsável por boa parte do backend, desenvolvi uma maior aptidade com o Php e SQL.
+- Atualmente desenvolvi apenas um projeto "maior" que foi o projeto interdiciplinar na faculdade em que consistia em uma aplicação web voltada para justificativa de falta e reposição de aula dos professores, visto que hoje em dia é tudo realizado de maneira escrita, então o projeto teve como objetivo realizar uma melhora nesse sistema e automatizar o processo inteiro, fiquei responsável por boa parte do backend, desenvolvi uma maior aptidade com o Php e SQL.
 
 ## Contato
 - E-mail: [luiselipe.alves@gmail.com](mailto:luiselipe.alves@gmail.com)
