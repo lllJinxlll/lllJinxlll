@@ -18,6 +18,7 @@ Sou apaixonado por games, como:
 - Valorant
 - Elden Ring
 - God of War
+
 Sou Apaixonado por animes, como:
 - Jujutsu Kaisen
 - Fairy Tail
