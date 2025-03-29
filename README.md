@@ -18,10 +18,18 @@ Sou apaixonado por games, como:
 - Valorant
 - Elden Ring
 - God of War
+Sou Apaixonado por animes, como:
+- Jujutsu Kaisen
+- Fairy Tail
+- One Piece
+- Fire Force
+- Naruto
 
 ## Redes Sociais
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lllJinxlll)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-alves-190866211)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/luis_felipe_vale/)
+
+##É isso, até a próxima 👊
 
 <img src="recebaoroxo.gif">
