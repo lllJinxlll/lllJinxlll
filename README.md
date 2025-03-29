@@ -30,6 +30,6 @@ Sou Apaixonado por animes, como:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-alves-190866211)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/luis_felipe_vale/)
 
-##É isso, até a próxima 👊
+## É isso, até a próxima 🔵🔴 🫴 🟣
 
 <img src="recebaoroxo.gif">
